@@ -52,8 +52,7 @@ public class ExampleLambda {
 		 * 
 		 * System.out.println(result);
 		 */
-				
-				
+								
 		//second largest number from list
 		
 		/*int[] number= {545, 23, 92, 1, 200, 532};
